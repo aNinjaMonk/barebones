@@ -1,0 +1,21 @@
+{
+  "name": "notes-server",
+  "version": "1.0.0",
+  "description": "Server for notes app",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "fully-connected-topology": "^1.1.1",
+    "moment": "^2.17.1",
+    "mysql": "^2.13.0",
+    "path": "^0.12.7",
+    "sqlite3": "^3.1.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
